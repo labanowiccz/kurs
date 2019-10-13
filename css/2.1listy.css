@@ -1,0 +1,38 @@
+* {
+  background-color: rgb(24, 215, 37);
+}
+
+ol.r {
+  list-style-type: lower-roman;
+
+}
+
+ul.a {
+  list-style-type: lower-alpha;
+
+}
+
+ul.l {
+  list-style-type: decimal;
+
+}
+
+ul.square {
+  list-style-type: square;
+
+}
+
+.blue {
+  color: blue;
+
+}
+
+.red {
+  color: red;
+
+}
+
+.yellow {
+  color: yellow;
+
+}

@@ -1,0 +1,41 @@
+* {
+  background-color: green;
+}
+
+ol {
+  list-style-type: upper-alpha;
+}
+
+/*.decimal{
+
+}*/
+
+ol.decimal {
+  list-style-type: decimal;
+  color: red;
+}
+
+ol.data {
+  list-style-type: decimal;
+
+}
+
+ul.circle {
+  list-style-type: square;
+
+}
+
+ul.square {
+  list-style-type: circle;
+
+}
+
+ul.square2 {
+  list-style-type: square;
+
+}
+
+ul.cos {
+  list-style-type: disc;
+  color: red;
+}
